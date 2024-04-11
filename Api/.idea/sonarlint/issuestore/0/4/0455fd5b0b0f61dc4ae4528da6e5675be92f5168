@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸œÄşÿÿÿÿ8í“íÃì1J$055c10ff-a5cf-4cde-a267-53937b7cbd55
+
+java:S1845"VRename method "getToken" to prevent any misunderstanding/clash with method "gettoken".(Ş¯‘Ÿıÿÿÿÿ8ú“íÃì1J$5828c1dc-3847-4795-b6c2-280b8dbad87e
+d
+java:S1128"GRemove this unused import 'com.example.ejercicio254.models.Users.Role'.(µ¢Ìõ8ê·šÄì1
+v
+java:S1068".Remove this unused "SECRET_KEY" private field.(¯Øî½ÿÿÿÿÿ8†”íÃì1J$77c6da2c-415d-4936-b06b-9747e79e2be6
