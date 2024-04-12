@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="Cambios Backend">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eccc87e389263d07ce71baed5663563086bb6bbc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eccc87e389263d07ce71baed5663563086bb6bbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +68,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "Spring Boot.Ejercicio254Application.executor": "Debug",
-    "git-widget-placeholder": "develop-BackEnd-UserController",
+    "Spring Boot.Ejercicio254Application.executor": "Run",
+    "git-widget-placeholder": "develop-BackEnd-Security",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/a925550/Documents/VsCode/Angular/Angular&Spring/Angular-Spring-JWT/Api/src/main/java/com/example/ejercicio254",
     "node.js.detected.package.eslint": "true",
