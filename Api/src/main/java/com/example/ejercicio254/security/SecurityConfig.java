@@ -25,11 +25,14 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception
     {
         return http
-                .csrf(AbstractHttpConfigurer::disable)
+                .csrf(csrf ->
+                        csrf
+                        .disable())
                 .authorizeHttpRequests(authRequest->
                         authRequest
                                 .requestMatchers("/api/v1/auth/**").permitAll()
                                 .requestMatchers("/api/v1/user/**").permitAll()
+                                .requestMatchers("/api/v1/user/update").hasRole("ADMIN")
                                 .requestMatchers("/api/v1/auth/demo").hasAnyRole("USER","ADMIN")
                         )
                 .sessionManagement(sesionManager->
