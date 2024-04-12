@@ -47,18 +47,26 @@ public class UserService {
        return null;
    }
 
-   public UserResponse updateUser(UserRequest userRequest)
-    {
-        User user = User.builder()
-                .id(userRequest.getId())
-                .firstName(userRequest.getFirstname())
-                .lastName(userRequest.getLastname())
-                .country(userRequest.getCountry())
-                .roles(List.of(Role.USER))
-                .build();
+    public UserResponse updateUser(UserRequest userRequest) {
+        User existingUser = userRepository.findById(userRequest.getId()).orElse(null);
 
-        userRepository.save(user);
-        return new UserResponse("El usuario se ha actualizado de forma correcta");
+        if (existingUser != null) {
+
+            User updatedUser = User.builder()
+                    .id(existingUser.getId())
+                    .username(userRequest.getUsername())
+                    .password(existingUser.getPassword())
+                    .firstName(userRequest.getFirstname())
+                    .lastName(userRequest.getLastname())
+                    .country(userRequest.getCountry())
+                    .roles(List.of(Role.USER))
+                    .build();
+
+            userRepository.save(updatedUser);
+            return new UserResponse("El usuario se ha actualizado de forma correcta");
+        } else {
+            return new UserResponse("El usuario no existe");
+        }
     }
 
 }
