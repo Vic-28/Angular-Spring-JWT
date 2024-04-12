@@ -1,4 +1,4 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åî®àûÿÿÿÿ8‡ï·‹í1J$623949ca-91db-4f76-91e0-1555b1895e7b
-r
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(˜Ãùõúÿÿÿÿ8ŸÐì‹í1
+§
+java:S1488&"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(º½ž—ùÿÿÿÿ8Ü›¸Œí1J$c8b2311e-bd79-4a76-bc28-4e480da3b386
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åî®àûÿÿÿÿ8ß›¸Œí1J$d81b3f6e-865e-4b29-80a8-7440a51252af

@@ -4,6 +4,7 @@ import com.example.ejercicio254.User.Request.UserRequest;
 import com.example.ejercicio254.User.Response.UserResponse;
 import com.example.ejercicio254.User.Service.UserService;
 import com.example.ejercicio254.models.Users.User;
+import com.example.ejercicio254.models.Users.UserDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -18,9 +19,9 @@ public class UserController {
     private final UserService userService;
 
     @GetMapping("/findAll")
-    public ResponseEntity<List<User>> findAll()
+    public ResponseEntity<List<UserDTO>> findAll()
     {
-        List<User> usuarios = userService.getAllUsers();
+        List<UserDTO> usuarios = userService.getAllUsers();
         return ResponseEntity.ok(usuarios);
     }
 
@@ -31,9 +32,9 @@ public class UserController {
     }
 
     @GetMapping("/getUser/{id}")
-    public ResponseEntity<User> getUser(@PathVariable Long id)
+    public ResponseEntity<UserDTO> getUser(@PathVariable Integer id)
     {
-        User user = userService.getUser(id);
+        UserDTO user = userService.getUser(id);
         if (user==null)
         {
             return ResponseEntity.notFound().build();
