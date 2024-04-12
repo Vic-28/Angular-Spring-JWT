@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="Cambios Backend">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;Spring Boot.Ejercicio254Application.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop-BackEnd-Security&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-BackEnd-UserService&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/a925550/Documents/VsCode/Angular/Angular&amp;Spring/Angular-Spring-JWT/Api/src/main/java/com/example/ejercicio254&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,

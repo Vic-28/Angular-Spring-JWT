@@ -1,0 +1,6 @@
+
+”
+java:S1612"LReplace this lambda with method reference 'AbstractHttpConfigurer::disable'.(­µğşÿÿÿÿ8÷ë¼í1J$396b9656-3051-4f49-99fc-1033b52126a0
+µ
+java:S1128
+"rRemove this unused import 'org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer'.(Ç¼Î8úë¼í1J$666db3ba-63e5-4d25-9ad3-48c9b97545b9
