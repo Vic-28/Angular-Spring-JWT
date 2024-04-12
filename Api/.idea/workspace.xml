@@ -5,49 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="Cambios Backend">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/4460e9ac4dac0a3775f989e78b11413475909c95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eccc87e389263d07ce71baed5663563086bb6bbc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eccc87e389263d07ce71baed5663563086bb6bbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/4460e9ac4dac0a3775f989e78b11413475909c95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/Repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/Repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/UpgradeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/UpgradeRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/ApplicationConfig/AplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/ApplicationConfig/AplicationConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/Repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthResponse$AuthResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthResponse$AuthResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthResponse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/LoginRequest$LoginRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/LoginRequest$LoginRequestBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/LoginRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/RegisterRequest$RegisterRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/RegisterRequest$RegisterRequestBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/RegisterRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/UpgradeRequest$UpgradeRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/UpgradeRequest$UpgradeRequestBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/UpgradeRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/UpgradeRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/User$UserBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "Spring Boot.Ejercicio254Application.executor": "Debug",
-    "git-widget-placeholder": "develop-BackEnd-AuthResponse",
+    "git-widget-placeholder": "develop-BackEnd",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/a925550/Documents/VsCode/Angular/Angular&Spring/Angular-Spring-JWT/Api/src/main/java/com/example/ejercicio254",
     "node.js.detected.package.eslint": "true",
@@ -190,34 +149,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cambios Backend" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
-          <line>15</line>
-          <properties class="com.example.ejercicio254.auth.AuthController" method="login">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="org.springframework.http.converter.HttpMessageNotReadableException" memberName="cause" />
