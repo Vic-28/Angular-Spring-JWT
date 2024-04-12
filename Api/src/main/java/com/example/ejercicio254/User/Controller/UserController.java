@@ -3,7 +3,6 @@ package com.example.ejercicio254.User.Controller;
 import com.example.ejercicio254.User.Request.UserRequest;
 import com.example.ejercicio254.User.Response.UserResponse;
 import com.example.ejercicio254.User.Service.UserService;
-import com.example.ejercicio254.models.Users.User;
 import com.example.ejercicio254.models.Users.UserDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;

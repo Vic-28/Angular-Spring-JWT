@@ -4,7 +4,6 @@ import com.example.ejercicio254.models.Users.User;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
 import java.security.Key;
@@ -13,7 +12,7 @@ import java.util.*;
 @Service
 public class JwtService {
 
-    private static final String SECRET_KEY="12345";
+    //private static final String SECRET_KEY="12345";
     public String getToken(User user) {
         return getToken(new HashMap<>(),user);
     }
