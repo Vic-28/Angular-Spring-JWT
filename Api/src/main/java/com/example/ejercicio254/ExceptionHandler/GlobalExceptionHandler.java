@@ -10,14 +10,13 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 public class GlobalExceptionHandler {
 
     @ExceptionHandler(IllegalArgumentException.class)
-    private ResponseEntity<String> handlerArgumentException(IllegalArgumentException exception)
-    {
-        return new ResponseEntity<String>(exception.getMessage(), HttpStatus.BAD_REQUEST);
+    private ResponseEntity<String> handleArgumentException(IllegalArgumentException exception) {
+        return new ResponseEntity<>(exception.getMessage(), HttpStatus.BAD_REQUEST);
     }
 
-    @ExceptionHandler(Exception.class)
-    public ResponseEntity<String> handlerRunTimeException(RuntimeException exception)
-    {
-        return new ResponseEntity<String>(exception.getMessage(), HttpStatus.BAD_GATEWAY);
+    @ExceptionHandler(RuntimeException.class)
+    public ResponseEntity<String> handleRuntimeException(RuntimeException exception) {
+        return new ResponseEntity<>(exception.getMessage(), HttpStatus.BAD_GATEWAY);
     }
 }
+

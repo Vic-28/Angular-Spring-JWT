@@ -1,9 +1,6 @@
 package com.example.ejercicio254.auth;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @Builder
@@ -11,7 +8,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class RegisterRequest {
 
-    String userName;
+    String username;
     String password;
     String firstName;
     String lastName;

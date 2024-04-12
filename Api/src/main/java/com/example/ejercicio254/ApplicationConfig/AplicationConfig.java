@@ -1,7 +1,7 @@
 package com.example.ejercicio254.ApplicationConfig;
 
-import com.example.ejercicio254.Repository.UserRepository;
-import com.example.ejercicio254.auth.AuthService;
+import com.example.ejercicio254.Repositories.UserRepository;
+import com.example.ejercicio254.models.Users.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -14,13 +14,15 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
+import java.util.Optional;
+
 @Configuration
 @RequiredArgsConstructor
 public class AplicationConfig {
 
-    private final AuthService authService;
     private final UserRepository userRepository;
 
+    @Bean
     public AuthenticationManager authenticationManager(AuthenticationConfiguration config) throws Exception {
         return config.getAuthenticationManager();
     }
@@ -28,8 +30,7 @@ public class AplicationConfig {
     @Bean
     public AuthenticationProvider authenticationProvider() {
         DaoAuthenticationProvider authenticationProvider = new DaoAuthenticationProvider();
-
-        authenticationProvider.setUserDetailsService(userDetailsService());
+        authenticationProvider.setUserDetailsService(userDetailService());
         authenticationProvider.setPasswordEncoder(passwordEncoder());
         return authenticationProvider;
     }
@@ -40,10 +41,9 @@ public class AplicationConfig {
     }
 
     @Bean
-    public UserDetailsService userDetailsService() {
-        return username -> userRepository.findAll().stream()
-                .filter(user -> user.getUsername().equals(username))
-                .findFirst()
-                .orElseThrow(() -> new UsernameNotFoundException("Usuario no encontrado: " + username));
+    public UserDetailsService userDetailService() {
+        return username -> userRepository.findByUsername(username)
+                .orElseThrow(()-> new UsernameNotFoundException("User not fournd"));
     }
+
 }

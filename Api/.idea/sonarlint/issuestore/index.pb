@@ -5,9 +5,6 @@ Csrc/main/java/com/example/ejercicio254/Ejercicio254Application.java,2\f\2fb9d9
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 x
 Hsrc/test/java/com/example/ejercicio254/Ejercicio254ApplicationTests.java,a\a\aa9e6108e39e106f0cef4f23af55b18da39505de
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 4
 mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
 8
@@ -46,7 +43,7 @@ w
 Gsrc/main/java/com/example/ejercicio254/JWT/JwtAuthenticationFilter.java,5\a\5abc995e3fe75f36dd664a84b34f834873c56412
 o
 ?src/main/java/com/example/ejercicio254/auth/UpgradeRequest.java,c\7\c7d10d1c8cf86c36b8db47bdb049b56ff46c462d
-u
-Esrc/main/java/com/example/ejercicio254/Repository/UserRepository.java,4\4\4460e9ac4dac0a3775f989e78b11413475909c95
 ƒ
 Ssrc/main/java/com/example/ejercicio254/ExceptionHandler/GlobalExceptionHandler.java,a\f\af660a2087547a4d36fc0c33acaf39d8c7680cd9
+w
+Gsrc/main/java/com/example/ejercicio254/Repositories/UserRepository.java,8\c\8c80f4ff76d1860e147403be08e1964231330cc8

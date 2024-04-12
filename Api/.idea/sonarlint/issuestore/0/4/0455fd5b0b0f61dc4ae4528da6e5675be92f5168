@@ -1,8 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸œÄşÿÿÿÿ8çª˜äì1J$9a377984-c7c2-4277-a221-c178a62fb449
-x
-java:S1845"VRename method "getToken" to prevent any misunderstanding/clash with method "gettoken".(Ş¯‘Ÿıÿÿÿÿ8æĞ­Ší1
-d
-java:S1128"GRemove this unused import 'com.example.ejercicio254.models.Users.Role'.(µ¢Ìõ8ôĞ­Ší1
-P
-java:S1068".Remove this unused "SECRET_KEY" private field.(¯Øî½ÿÿÿÿÿ8õĞ­Ší1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸œÄşÿÿÿÿ8çª˜äì1J$b7d61634-d517-48b4-bff4-f30c7055a3e6
+™
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8«µ¡Ší1J$87e92bf3-8532-40c5-83a2-6b9eb2da8a92
+v
+java:S1068".Remove this unused "SECRET_KEY" private field.(¯Øî½ÿÿÿÿÿ8Š«˜äì1J$4da27032-3e66-43aa-ba12-15c861d70e92
