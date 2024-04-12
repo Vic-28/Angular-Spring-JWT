@@ -1,10 +1,10 @@
 package com.example.ejercicio254.JWT;
 
-import com.example.ejercicio254.models.Users.Role;
 import com.example.ejercicio254.models.Users.User;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;
+import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
 import java.security.Key;
@@ -14,7 +14,7 @@ import java.util.*;
 public class JwtService {
 
     private static final String SECRET_KEY="12345";
-    public String gettoken(User user) {
+    public String getToken(User user) {
         return getToken(new HashMap<>(),user);
     }
 
@@ -22,6 +22,8 @@ public class JwtService {
 
         Map<String, Object> claims = new HashMap<>();
         claims.put("Nombre", user.getFirstName());
+        claims.put("Apellido", user.getLastName());
+        claims.put("Country", user.getCountry());
         claims.put("Roles", user.getRoles());
         return Jwts
                 .builder()
