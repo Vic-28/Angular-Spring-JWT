@@ -1,6 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸œÄşÿÿÿÿ8çª˜äì1J$b7d61634-d517-48b4-bff4-f30c7055a3e6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸œÄşÿÿÿÿ8çª˜äì1J$34bd2416-1f31-4ae9-993e-e2c7da83d62d
 ™
-java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8«µ¡Ší1J$87e92bf3-8532-40c5-83a2-6b9eb2da8a92
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8Ç²Ší1J$4c23b29a-abf6-4024-ae16-3a1b5d380250
 v
-java:S1068".Remove this unused "SECRET_KEY" private field.(¯Øî½ÿÿÿÿÿ8Š«˜äì1J$4da27032-3e66-43aa-ba12-15c861d70e92
+java:S1068".Remove this unused "SECRET_KEY" private field.(¯Øî½ÿÿÿÿÿ8Û²Ší1J$0c67f697-4faf-4495-8070-e7dfa8a5b458
