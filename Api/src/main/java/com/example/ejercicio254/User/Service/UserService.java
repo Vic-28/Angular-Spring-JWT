@@ -51,12 +51,11 @@ public class UserService {
         User existingUser = userRepository.findById(userRequest.getId()).orElse(null);
 
         if (existingUser != null) {
-            String password = existingUser.getPassword();
 
             User updatedUser = User.builder()
-                    .id(userRequest.getId())
+                    .id(existingUser.getId())
                     .username(userRequest.getUsername())
-                    .password(password)
+                    .password(existingUser.getPassword())
                     .firstName(userRequest.getFirstname())
                     .lastName(userRequest.getLastname())
                     .country(userRequest.getCountry())
