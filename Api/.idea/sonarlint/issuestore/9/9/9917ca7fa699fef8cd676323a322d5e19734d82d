@@ -1,4 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åî®àûÿÿÿÿ8ß›¸Œí1J$47910dfd-83e6-47f9-9b74-05f2e4e7747b
-r
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(˜Ãùõúÿÿÿÿ8†ÂÁŒí1
+
+java:S1488&"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(º½—ùÿÿÿÿ8£ÈŒí1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åî®àûÿÿÿÿ8ß›¸Œí1J$fe04ad0b-4765-4eef-84e6-98b95b4f8fe3
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8³ÈŒí1
