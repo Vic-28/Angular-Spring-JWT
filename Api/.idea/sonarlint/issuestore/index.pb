@@ -57,3 +57,5 @@ v
 Fsrc/main/java/com/example/ejercicio254/User/Response/UserResponse.java,2\2\224e183c07ee75255a07de56b4609d2fd94270c8
 t
 Dsrc/main/java/com/example/ejercicio254/User/Request/UserRequest.java,9\6\96400cfb825a364fcc92b34ffb8244e9cc39e7eb
+z
+Jsrc/main/java/com/example/ejercicio254/User/Controller/UserController.java,3\f\3f43434e919e3ad66c134b0b0cb53cc7191ed294
