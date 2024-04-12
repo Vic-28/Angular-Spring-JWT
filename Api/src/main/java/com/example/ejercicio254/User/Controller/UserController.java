@@ -21,13 +21,13 @@ public class UserController {
     @GetMapping("/findAll")
     public ResponseEntity<List<UserDTO>> findAll()
     {
-        List<UserDTO> usuarios = userService.getAllUsers();
-        return ResponseEntity.ok(usuarios);
+        return ResponseEntity.ok(userService.getAllUsers());
     }
 
     @PutMapping("/update")
     public ResponseEntity<UserResponse> update(@RequestBody UserRequest userRequest)
     {
+
         return ResponseEntity.ok(userService.updateUser(userRequest));
     }
 

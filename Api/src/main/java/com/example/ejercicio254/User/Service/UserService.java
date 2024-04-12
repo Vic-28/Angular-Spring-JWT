@@ -51,6 +51,7 @@ public class UserService {
     {
         User user = User.builder()
                 .id(userRequest.getId())
+                .username(userRequest.getUsername())
                 .firstName(userRequest.getFirstname())
                 .lastName(userRequest.getLastname())
                 .country(userRequest.getCountry())
