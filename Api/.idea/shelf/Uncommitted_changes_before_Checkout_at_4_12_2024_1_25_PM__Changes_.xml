@@ -1,0 +1,39 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]" date="1712924755477" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 4/12/2024 1:25 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/sonarlint/issuestore/3/4/34aad899108a722bef990526d306e1449ba42bad" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/example/ejercicio254/security/SecurityConfig.class" />
+    <option name="AFTER_PATH" value="target/classes/com/example/ejercicio254/security/SecurityConfig.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/SecurityConfig.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/sonarlint/securityhotspotstore/3/4/34aad899108a722bef990526d306e1449ba42bad" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/9917ca7fa699fef8cd676323a322d5e19734d82d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/example/ejercicio254/JWT/JwtService.class" />
+    <option name="AFTER_PATH" value="target/classes/com/example/ejercicio254/JWT/JwtService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/JwtService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/example/ejercicio254/User/Controller/UserController.class" />
+    <option name="AFTER_PATH" value="target/classes/com/example/ejercicio254/User/Controller/UserController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/UserController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/example/ejercicio254/ApplicationConfig/AplicationConfig.class" />
+    <option name="AFTER_PATH" value="target/classes/com/example/ejercicio254/ApplicationConfig/AplicationConfig.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2024_1_25_PM_[Changes]/AplicationConfig.class" />
+  </binary>
+</changelist>
