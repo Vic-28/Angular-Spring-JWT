@@ -10,6 +10,7 @@ import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 @AllArgsConstructor
@@ -19,30 +20,37 @@ public class UserService {
     private final UserRepository userRepository;
 
     public List<UserDTO> getAllUsers() {
-        return userRepository.findAll()
-                .stream()
-                .map(user -> UserDTO.builder()
-                        .id(user.getId())
-                        .username(user.getUsername())
-                        .firstname(user.getFirstName())
-                        .lastname(user.getLastName())
-                        .country(user.getCountry())
-                        .build())
-                .collect(Collectors.toList());
+        try {
+            return userRepository.findAll()
+                    .stream()
+                    .map(this::mapToDTO)
+                    .collect(Collectors.toList());
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw new RuntimeException("Failed to retrieve users from repository", e);
+        }
     }
 
+    private UserDTO mapToDTO(User user) {
+        return UserDTO.builder()
+                .id(user.getId())
+                .username(user.getUsername())
+                .firstname(user.getFirstName())
+                .lastname(user.getLastName())
+                .country(user.getCountry())
+                .build();
+    }
 
-   public UserDTO getUser(Integer id) {
+    public UserDTO getUser(Integer id) {
        User user = userRepository.findById(id).orElse(null);
        if (user != null) {
-           UserDTO userDTO = UserDTO.builder()
+           return UserDTO.builder()
                    .id(user.getId())
                    .username(user.getUsername())
                    .firstname(user.getFirstName())
                    .lastname(user.getLastName())
                    .country(user.getCountry())
                    .build();
-           return userDTO;
        }
        return null;
    }
@@ -66,6 +74,15 @@ public class UserService {
             return new UserResponse("El usuario se ha actualizado de forma correcta");
         } else {
             return new UserResponse("El usuario no existe");
+        }
+    }
+
+    public User getUserByName(String username) {
+        Optional<User> userOptional = userRepository.findByUsername(username);
+        if (userOptional.isPresent()) {
+            return userOptional.get();
+        } else {
+            return null;
         }
     }
 

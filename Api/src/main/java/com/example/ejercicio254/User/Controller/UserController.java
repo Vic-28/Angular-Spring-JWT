@@ -3,7 +3,6 @@ package com.example.ejercicio254.User.Controller;
 import com.example.ejercicio254.User.Request.UserRequest;
 import com.example.ejercicio254.User.Response.UserResponse;
 import com.example.ejercicio254.User.Service.UserService;
-import com.example.ejercicio254.models.Users.User;
 import com.example.ejercicio254.models.Users.UserDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
@@ -22,8 +21,7 @@ public class UserController {
     @GetMapping("/findAll")
     public ResponseEntity<List<UserDTO>> findAll()
     {
-        List<UserDTO> usuarios = userService.getAllUsers();
-        return ResponseEntity.ok(usuarios);
+        return ResponseEntity.ok(userService.getAllUsers());
     }
 
     @PutMapping("/update")
@@ -35,11 +33,6 @@ public class UserController {
     @GetMapping("/getUser/{id}")
     public ResponseEntity<UserDTO> getUser(@PathVariable Integer id)
     {
-        UserDTO user = userService.getUser(id);
-        if (user==null)
-        {
-            return ResponseEntity.notFound().build();
-        }
-        return ResponseEntity.ok(user);
+        return ResponseEntity.ok(userService.getUser(id));
     }
 }
