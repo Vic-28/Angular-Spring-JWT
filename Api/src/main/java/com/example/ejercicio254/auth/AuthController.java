@@ -31,9 +31,4 @@ public class AuthController {
         return  ResponseEntity.ok(authService.upgrade(request));
     }
 
-    @PostMapping("/demo")
-    public ResponseEntity<AuthResponse> demo(@RequestBody LoginRequest request)
-    {
-        return  ResponseEntity.ok(authService.demo(request));
-    }
 }

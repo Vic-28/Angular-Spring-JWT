@@ -72,22 +72,4 @@ public class AuthService {
             return AuthResponse.builder().build();
         }
     }
-
-
-    public AuthResponse demo(LoginRequest request) {
-        User user = userRepository.findAll().stream()
-                .filter(u -> {
-                    String username = u.getUsername();
-                    return username != null && username.equals(request.getUsername());
-                })
-                .findFirst()
-                .orElse(null);
-
-        String token = jwtService.getToken(user);
-
-        return AuthResponse.builder().token(token).build();
-    }
-
-
-
 }

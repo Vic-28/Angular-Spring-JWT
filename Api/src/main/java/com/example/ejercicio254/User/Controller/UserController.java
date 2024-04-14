@@ -21,8 +21,7 @@ public class UserController {
     @GetMapping("/findAll")
     public ResponseEntity<List<UserDTO>> findAll()
     {
-        List<UserDTO> usuarios = userService.getAllUsers();
-        return ResponseEntity.ok(usuarios);
+        return ResponseEntity.ok(userService.getAllUsers());
     }
 
     @PutMapping("/update")
@@ -34,11 +33,6 @@ public class UserController {
     @GetMapping("/getUser/{id}")
     public ResponseEntity<UserDTO> getUser(@PathVariable Integer id)
     {
-        UserDTO user = userService.getUser(id);
-        if (user==null)
-        {
-            return ResponseEntity.notFound().build();
-        }
-        return ResponseEntity.ok(user);
+        return ResponseEntity.ok(userService.getUser(id));
     }
 }
