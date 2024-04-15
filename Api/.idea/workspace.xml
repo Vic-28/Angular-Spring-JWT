@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="Cambios Backend">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34aad899108a722bef990526d306e1449ba42bad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/224e183c07ee75255a07de56b4609d2fd94270c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/224e183c07ee75255a07de56b4609d2fd94270c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c80f4ff76d1860e147403be08e1964231330cc8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c80f4ff76d1860e147403be08e1964231330cc8" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/34aad899108a722bef990526d306e1449ba42bad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" afterDir="false" />
+>>>>>>> develop-FrontEnd
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtAuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" afterDir="false" />
+=======
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO$UserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO$UserDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="develop-FrontEnd" />
+        <entry key="$PROJECT_DIR$" value="develop-Auth" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+<<<<<<< HEAD
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vic-28"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vic-28/Angular-Spring-JWT.git",
+    "accountId": "ef354085-088d-4f7f-a26a-c78b8b069355"
+  }
+}]]></component>
+=======
+<<<<<<< Updated upstream
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vic-28&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vic-28/Angular-Spring-JWT.git&quot;,
+    &quot;accountId&quot;: &quot;ef354085-088d-4f7f-a26a-c78b8b069355&quot;
+  }
+}</component>
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eVDEDPRbhrXGDx4tXimNILV2W2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Ejercicio254Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-BackEnd-Security&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a925550/Documents/VsCode/Angular/Angular&amp;Spring/Angular-Spring-JWT/Api/src/main/java/com/example/ejercicio254&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a925550\Documents\VsCode\Angular\Angular&amp;Spring\Angular-Spring-JWT\Api\src\main\java\com\example\ejercicio254" />
+      <recent name="C:\Users\a925550\Documents\InteliJ\Ejercicio2-5-4\Ejercicio2-5-4\src\main\java\com\example\ejercicio254" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ejercicio254Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Ejercicio254" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ejercicio254.Ejercicio254Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="" />
+      <created>1711980740154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711980740154</updated>
+      <workItem from="1711980741223" duration="4375000" />
+      <workItem from="1711985152858" duration="1853000" />
+      <workItem from="1712043588018" duration="24492000" />
+      <workItem from="1712132547175" duration="12826000" />
+      <workItem from="1712216661571" duration="1778000" />
+      <workItem from="1712231164265" duration="5610000" />
+      <workItem from="1712244476002" duration="714000" />
+      <workItem from="1712301787198" duration="98000" />
+      <workItem from="1712303622070" duration="4637000" />
+      <workItem from="1712758199856" duration="2349000" />
+      <workItem from="1712760671398" duration="515000" />
+      <workItem from="1712761215440" duration="2184000" />
+      <workItem from="1712825041321" duration="11009000" />
+      <workItem from="1712837663604" duration="9712000" />
+      <workItem from="1712903908319" duration="4159000" />
+<<<<<<< HEAD
+      <workItem from="1713042059787" duration="4956000" />
+      <workItem from="1713095362037" duration="2373000" />
+=======
+<<<<<<< Updated upstream
+=======
+      <workItem from="1713042059787" duration="4956000" />
+      <workItem from="1713095362037" duration="2373000" />
+      <workItem from="1713163966572" duration="3079000" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
+    </task>
+    <task id="LOCAL-00001" summary="Cambios Backend">
+      <option name="closed" value="true" />
+      <created>1712760515000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712760515000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios Backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios Backend" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>22</line>
+          <properties class="com.example.ejercicio254.auth.AuthController" method="register">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.http.converter.HttpMessageNotReadableException" memberName="cause" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((HttpMessageNotReadableException)exception).cause" language="JAVA" custom="org.springframework.http.converter.HttpMessageNotReadableException" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
