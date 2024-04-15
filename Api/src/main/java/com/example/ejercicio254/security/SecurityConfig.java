@@ -26,8 +26,13 @@ public class SecurityConfig {
     {
         return http
                 .csrf(csrf ->
+<<<<<<< Updated upstream
                         csrf
                         .disable())
+=======
+                csrf
+                .disable())
+>>>>>>> Stashed changes
                 .authorizeHttpRequests(authRequest->
                         authRequest
                                 .requestMatchers("/api/v1/auth/**").permitAll()

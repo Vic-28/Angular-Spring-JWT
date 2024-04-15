@@ -31,6 +31,18 @@ public class UserService {
                 .collect(Collectors.toList());
     }
 
+<<<<<<< Updated upstream
+=======
+    private UserDTO mapToDTO(User user) {
+        return UserDTO.builder()
+                .id(user.getId())
+                .username(user.getUsername())
+                .firstName(user.getFirstName())
+                .lastName(user.getLastName())
+                .country(user.getCountry())
+                .build();
+    }
+>>>>>>> Stashed changes
 
    public UserDTO getUser(Integer id) {
        User user = userRepository.findById(id).orElse(null);
@@ -38,8 +50,8 @@ public class UserService {
            UserDTO userDTO = UserDTO.builder()
                    .id(user.getId())
                    .username(user.getUsername())
-                   .firstname(user.getFirstName())
-                   .lastname(user.getLastName())
+                   .firstName(user.getFirstName())
+                   .lastName(user.getLastName())
                    .country(user.getCountry())
                    .build();
            return userDTO;
