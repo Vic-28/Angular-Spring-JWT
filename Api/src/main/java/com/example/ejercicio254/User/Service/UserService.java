@@ -31,15 +31,29 @@ public class UserService {
         }
     }
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> develop-FrontEnd
     private UserDTO mapToDTO(User user) {
         return UserDTO.builder()
                 .id(user.getId())
                 .username(user.getUsername())
+<<<<<<< HEAD
                 .firstname(user.getFirstName())
                 .lastname(user.getLastName())
                 .country(user.getCountry())
                 .build();
     }
+=======
+                .firstName(user.getFirstName())
+                .lastName(user.getLastName())
+                .country(user.getCountry())
+                .build();
+    }
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
 
     public UserDTO getUser(Integer id) {
        User user = userRepository.findById(id).orElse(null);
@@ -47,8 +61,8 @@ public class UserService {
            return UserDTO.builder()
                    .id(user.getId())
                    .username(user.getUsername())
-                   .firstname(user.getFirstName())
-                   .lastname(user.getLastName())
+                   .firstName(user.getFirstName())
+                   .lastName(user.getLastName())
                    .country(user.getCountry())
                    .build();
        }

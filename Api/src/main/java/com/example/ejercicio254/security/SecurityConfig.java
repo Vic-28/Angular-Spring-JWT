@@ -25,7 +25,18 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception
     {
         return http
+<<<<<<< HEAD
                 .csrf(AbstractHttpConfigurer::disable)
+=======
+                .csrf(csrf ->
+<<<<<<< Updated upstream
+                        csrf
+                        .disable())
+=======
+                csrf
+                .disable())
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
                 .authorizeHttpRequests(authRequest->
                         authRequest
                                 .requestMatchers(HttpMethod.GET).authenticated()

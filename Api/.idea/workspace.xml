@@ -6,15 +6,33 @@
   <component name="ChangeListManager">
     <list default="true" id="fb7c935b-c8d7-4462-a8ea-7a203bf1a1c8" name="Changes" comment="Cambios Backend">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0455fd5b0b0f61dc4ae4528da6e5675be92f5168" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34aad899108a722bef990526d306e1449ba42bad" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/224e183c07ee75255a07de56b4609d2fd94270c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/224e183c07ee75255a07de56b4609d2fd94270c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5abc995e3fe75f36dd664a84b34f834873c56412" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b1634d65cb52d92e385b59732cf7dc40dfafcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c80f4ff76d1860e147403be08e1964231330cc8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c80f4ff76d1860e147403be08e1964231330cc8" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350c02c3e1cf8d424d4420b288b4f20a3c3bb06a" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d0d018ef1e25c2c5d920ea6b6c964641474c418" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9917ca7fa699fef8cd676323a322d5e19734d82d" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/34aad899108a722bef990526d306e1449ba42bad" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dae8bf8bde45bbebe15400a48b6ce2b7c66e104" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af660a2087547a4d36fc0c33acaf39d8c7680cd9" afterDir="false" />
+>>>>>>> develop-FrontEnd
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/ApplicationConfig/AplicationConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtAuthenticationFilter.java" afterDir="false" />
@@ -25,6 +43,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtAuthenticationFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Controller/UserController.class" afterDir="false" />
@@ -32,6 +51,22 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/auth/AuthService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" afterDir="false" />
+=======
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/JWT/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/User/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/models/Users/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ejercicio254/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/JWT/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/User/Service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO$UserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO$UserDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/models/Users/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ejercicio254/security/SecurityConfig.class" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +91,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
@@ -68,6 +104,23 @@
     "accountId": "ef354085-088d-4f7f-a26a-c78b8b069355"
   }
 }]]></component>
+=======
+<<<<<<< Updated upstream
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vic-28&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vic-28/Angular-Spring-JWT.git&quot;,
+    &quot;accountId&quot;: &quot;ef354085-088d-4f7f-a26a-c78b8b069355&quot;
+  }
+}</component>
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -157,8 +210,17 @@
       <workItem from="1712825041321" duration="11009000" />
       <workItem from="1712837663604" duration="9712000" />
       <workItem from="1712903908319" duration="4159000" />
+<<<<<<< HEAD
       <workItem from="1713042059787" duration="4956000" />
       <workItem from="1713095362037" duration="2373000" />
+=======
+<<<<<<< Updated upstream
+=======
+      <workItem from="1713042059787" duration="4956000" />
+      <workItem from="1713095362037" duration="2373000" />
+      <workItem from="1713163966572" duration="3079000" />
+>>>>>>> Stashed changes
+>>>>>>> develop-FrontEnd
     </task>
     <task id="LOCAL-00001" summary="Cambios Backend">
       <option name="closed" value="true" />
@@ -190,6 +252,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cambios Backend" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ejercicio254/auth/AuthController.java</url>
+          <line>22</line>
+          <properties class="com.example.ejercicio254.auth.AuthController" method="register">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="org.springframework.http.converter.HttpMessageNotReadableException" memberName="cause" />

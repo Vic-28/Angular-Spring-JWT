@@ -1,2 +1,8 @@
 
+<<<<<<< HEAD
 ¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôüæžüÿÿÿÿ8Âöñäì1J$76d3b404-df1c-4c08-bdcd-1f5e30660846
+=======
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôüæžüÿÿÿÿ8Âöñäì1J$a28a4242-4115-48ea-9403-1b27ed3ac4f4
+o
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Áüõ‰î1
+>>>>>>> develop-FrontEnd
